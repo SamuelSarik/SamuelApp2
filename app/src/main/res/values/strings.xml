@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikácia na pomoc</string>
+    <string name="instructions">Inštrukcie:</string>
+
+
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="actualinstructions">Aplikácia je určená pre nevidiacich a slabozrakých ľudí. Táto aplikácia umožňuje prečítať text, a spustiť kameru pomocou hlasového vstupu.
+    </string>
+
+    <string name="working">Počúvanie...Pre ukončenie klikni</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="take_picture">Odfoť</string>
+    <string name="txt_message">Fotenie</string>
+</resources>
